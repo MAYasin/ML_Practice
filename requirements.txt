@@ -1,0 +1,10 @@
+jupyter
+lxml
+matplotlib
+pandas
+Pillow
+scikit-learn==0.22.0
+seaborn
+tensorflow==2.2.0
+ipykernel
+
